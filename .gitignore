@@ -1,0 +1,10 @@
+# Ignore BE
+be/node_modules/
+be/.env
+
+# Ignore FE
+fe/**/build/
+fe/**/.gradle/
+
+# System
+.DS_Store
